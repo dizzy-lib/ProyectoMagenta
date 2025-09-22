@@ -50,7 +50,6 @@ public class CarteleraMySQLRepository implements CarteleraRepository{
         // Convertir string a enum Genero
         Genero genero = Genero.valueOf(generoStr);
 
-        // Crear y retornar la película (ajusta según tu clase concreta)
         return new PeliculaBase(id, titulo, director, anno, duracion, genero);
     }
 
@@ -87,8 +86,6 @@ public class CarteleraMySQLRepository implements CarteleraRepository{
              ResultSet resultSet = statement.executeQuery()) {
 
             if (resultSet.next()) {
-                // Aquí necesitarías crear la instancia de tu clase Pelicula concreta
-                // Asumo que tienes PeliculaBase como implementación
                 return crearPeliculaDesdeResultSet(resultSet);
             }
 
