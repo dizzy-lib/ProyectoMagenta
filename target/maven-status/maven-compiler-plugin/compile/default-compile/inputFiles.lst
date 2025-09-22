@@ -1,0 +1,11 @@
+/Users/kevin/Desktop/Documentos Duoc/PROGRAMACION CON BASE DE DATOS MYSQL/ProyectoMagenta-master/src/main/java/Application.java
+/Users/kevin/Desktop/Documentos Duoc/PROGRAMACION CON BASE DE DATOS MYSQL/ProyectoMagenta-master/src/main/java/application/AgregarPeliculaUseCase.java
+/Users/kevin/Desktop/Documentos Duoc/PROGRAMACION CON BASE DE DATOS MYSQL/ProyectoMagenta-master/src/main/java/domain/entities/Genero.java
+/Users/kevin/Desktop/Documentos Duoc/PROGRAMACION CON BASE DE DATOS MYSQL/ProyectoMagenta-master/src/main/java/domain/entities/Pelicula.java
+/Users/kevin/Desktop/Documentos Duoc/PROGRAMACION CON BASE DE DATOS MYSQL/ProyectoMagenta-master/src/main/java/domain/entities/PeliculaBase.java
+/Users/kevin/Desktop/Documentos Duoc/PROGRAMACION CON BASE DE DATOS MYSQL/ProyectoMagenta-master/src/main/java/domain/services/ServicioPeliculas.java
+/Users/kevin/Desktop/Documentos Duoc/PROGRAMACION CON BASE DE DATOS MYSQL/ProyectoMagenta-master/src/main/java/infraestructure/CarteleraMySQLRepository.java
+/Users/kevin/Desktop/Documentos Duoc/PROGRAMACION CON BASE DE DATOS MYSQL/ProyectoMagenta-master/src/main/java/infraestructure/CarteleraRepository.java
+/Users/kevin/Desktop/Documentos Duoc/PROGRAMACION CON BASE DE DATOS MYSQL/ProyectoMagenta-master/src/main/java/presentation/FormularioPrincipal.java
+/Users/kevin/Desktop/Documentos Duoc/PROGRAMACION CON BASE DE DATOS MYSQL/ProyectoMagenta-master/src/main/java/shared/exceptions/IdDuplicadoException.java
+/Users/kevin/Desktop/Documentos Duoc/PROGRAMACION CON BASE DE DATOS MYSQL/ProyectoMagenta-master/src/main/java/shared/utils/Validaciones.java

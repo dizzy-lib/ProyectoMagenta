@@ -1,0 +1,11 @@
+application/AgregarPeliculaUseCase.class
+domain/entities/PeliculaBase.class
+infraestructure/CarteleraMySQLRepository.class
+infraestructure/CarteleraRepository.class
+domain/services/ServicioPeliculas.class
+presentation/FormularioPrincipal.class
+domain/entities/Genero.class
+domain/entities/Pelicula.class
+shared/exceptions/IdDuplicadoException.class
+Application.class
+shared/utils/Validaciones.class
