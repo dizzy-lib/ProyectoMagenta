@@ -10,9 +10,9 @@ CREATE TABLE CARTELERA (
 	id INT AUTO_INCREMENT PRIMARY KEY,
     titulo VARCHAR(150) NOT NULL,
     director VARCHAR(50) NOT NULL,
-    anno INT,
-    duracion INT COMMENT "Duración en minutos",
-    genero VARCHAR(25)
+    anno INT NOT NULL,
+    duracion INT NOT NULL COMMENT "Duración en minutos",
+    genero VARCHAR(25) NOT NULL
 );
 
 -- VALIDADOR DE AÑO
